@@ -8,7 +8,7 @@
                 <form>
                     <sheet>
                         <group>
-                            <field name="name"
+                            <field name="name"/>
                             <field name="value"/>
                         </group>
                     </sheet>
